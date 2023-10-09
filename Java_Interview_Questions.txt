@@ -1,0 +1,3 @@
+1.Is abstract class has any constructor ?
+2.How to create singleton design pattern
+3.How to make Singleton class threadsafe ?
